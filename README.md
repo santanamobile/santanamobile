@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m @santanamobile
-- 👀 I’m interested in: bash, C/C++, ArduinoCore, Public/Private Clouds, Home Assistant, ESPHome, ESP-IDF.
+- 👀 I’m interested in: Embedded Linux development, Public/Private Clouds
 - 🌱 I’m currently learning Ansible, Terraform, Vagrant, Docker, AWS, GCP.
 - 🌱 I'm also learning: Yocto and Buildroot
 - 📫 How to reach me:
